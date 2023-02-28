@@ -1,0 +1,10 @@
+/.vs
+*.suo
+*.user
+_ReSharper.*
+*/.vs
+bin
+obj
+packages
+appsettings.Development.json
+appsettings.json
